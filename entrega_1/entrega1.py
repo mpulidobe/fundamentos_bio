@@ -1,7 +1,6 @@
 def fasta_to_tsv(fasta_path: str, tsv_output: str) -> None:
     """
     Convierte un archivo FASTA a formato TSV.
-    Cada fila contiene: identificador, descripción y secuencia completa.
     
     Parámetros:
         fasta_path (str): Ruta del archivo FASTA de entrada.
