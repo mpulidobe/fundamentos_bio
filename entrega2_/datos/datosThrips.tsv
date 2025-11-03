@@ -1,0 +1,36 @@
+Gene Name	Full Name and Function	Gene Type	Position Start	Position End	Length (bp)	Strand	Intergenic Space	Codon Start	Codon Stop	Anti-codon
+nad5	NADH dehydrogenase subunit 5	PCG	205	1899	1695	–	-12	att	tag	–
+trnH	Transfer RNA for Histidine	tRNA	1888	1948	61	–	10	–	–	gtg
+nad4	NADH dehydrogenase subunit 4	PCG	1959	2966	1008	–	292	att	t	–
+nad4L	NADH dehydrogenase subunit 4L	PCG	3259	3531	273	–	26	atg	taa	–
+trnC	Transfer RNA for Cysteine	tRNA	3558	3617	60	+	31	–	–	gca
+nad6	NADH dehydrogenase subunit 6	PCG	3649	4122	474	+	51	att	taa	–
+rrnL	16S ribosomal RNA	rRNA	4174	5325	1152	+	22	–	–	–
+COX1	cytochrome c oxidase subunit I	PCG	5348	6889	1542	+	65	ata	taa	–
+nad3	NADH dehydrogenase subunit 3	PCG	6955	7305	351	+	-1	att	taa	–
+COX2	cytochrome c oxidase subunit II	PCG	7305	7964	660	+	11	ata	taa	–
+trnG	Transfer RNA for Glycine	tRNA	7976	8037	62	+	3	–	–	tcc
+trnK	Transfer RNA for Lysine	tRNA	8041	8102	62	+	10	–	–	ttt
+COX3	cytochrome c oxidase subunit III	PCG	8113	8895	783	+	0	ata	taa	–
+trnN	Transfer RNA for Asparagine	tRNA	8896	8959	64	+	-3	–	–	gtt
+trnT	Transfer RNA for Threonine	tRNA	8957	9019	63	+	-1	–	–	tgt
+trnL1	Transfer RNA for Leucine	tRNA	9019	9082	64	+	2	–	–	tag
+trnE	Transfer RNA for Glutamic acid	tRNA	9085	9147	63	+	8	–	–	ttc
+trnS1	Transfer RNA for Serine	tRNA	9156	9212	57	+	6	–	–	tct
+trnQ	Transfer RNA for Glutamine	tRNA	9219	9286	68	+	37	–	–	ttg
+trnS2	Transfer RNA for Serine	tRNA	9324	9387	64	+	0	–	–	tga
+trnD	Transfer RNA for Aspertic acid	tRNA	9388	9451	64	+	451	–	–	gtc
+trnR	Transfer RNA for Arginine	tRNA	9903	9968	66	–	18	–	–	tcg
+ATP6	ATP synthase F0 subunit 6	PCG	9987	10607	621	–	50	ata	taa	–
+ATP8	ATP synthase F0 subunit 8	PCG	10658	10860	203	–	-54	att	t	–
+rrnS	12S ribosomal RNA	rRNA	10807	11413	607	–	116	–	–	–
+trnF	Transfer RNA for Phenylalanine	tRNA	11530	11594	65	–	-1	–	–	gaa
+trnA	Transfer RNA for Alanine	tRNA	11594	11656	63	–	2	–	–	tgc
+trnM	Transfer RNA for Methionine	tRNA	11659	11721	63	–	-4	–	–	cat
+nad1	NADH dehydrogenase subunit 2	PCG	11718	12641	924	–	6	ata	taa	–
+nad2	NADH dehydrogenase subunit 1	PCG	12648	13628	981	–	73	att	taa	–
+trnY	Transfer RNA for Tyrosine	tRNA	13702	13765	64	+	-3	–	–	gta
+CYTB	cytochrome b	PCG	13763	14908	1146	–	-29	ata	tag	–
+trnI	Transfer RNA for Isoleucine	tRNA	14880	14943	64	–	2	–	–	gat
+trnP	Transfer RNA for Proline	tRNA	14946	15008	63	+	268	–	–	tgg
+
