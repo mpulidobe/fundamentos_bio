@@ -9,5 +9,5 @@ sns.boxplot(data=df,
             x='Gene Type',
             y='Length (bp)',
             fill=False)
-plt.title('Diferencia de longitud')
+plt.title('Diferencia de longitud para cada tipo de gen')
 plt.show()
