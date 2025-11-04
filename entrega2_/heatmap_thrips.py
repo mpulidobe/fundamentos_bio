@@ -11,4 +11,5 @@ sns.heatmap(tabla,
 plt.title("Relación entre genes y codones de inicio en T. tabaci")
 plt.xlabel("Codón de inicio")
 plt.ylabel("Gen")
+plt.savefig('heatmap_thrips.png', dpi=300, bbox_inches='tight')
 plt.show()
