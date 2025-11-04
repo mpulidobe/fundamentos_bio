@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6ca620d-4bb0-4e9c-a545-95ed58c8cf7c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/heatmap_thrips.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/boxplot_thrips.py" beforeDir="false" afterPath="$PROJECT_DIR$/boxplot_thrips.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scatterplot_thrips.py" beforeDir="false" afterPath="$PROJECT_DIR$/scatterplot_thrips.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,31 +31,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.boxplot_thrips.executor": "Run",
-    "Python.countplot_thrips.executor": "Run",
-    "Python.heatmap_thrips.executor": "Run",
-    "Python.histograma_thrips.executor": "Run",
-    "Python.piechart_thrips.executor": "Run",
-    "Python.scatterplot_thrips.executor": "Run",
-    "Python.violinplot_thrips.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.boxplot_thrips.executor&quot;: &quot;Run&quot;,
+    &quot;Python.countplot_thrips.executor&quot;: &quot;Run&quot;,
+    &quot;Python.heatmap_thrips.executor&quot;: &quot;Run&quot;,
+    &quot;Python.histograma_thrips.executor&quot;: &quot;Run&quot;,
+    &quot;Python.piechart_thrips.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scatterplot_thrips.executor&quot;: &quot;Run&quot;,
+    &quot;Python.violinplot_thrips.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python.heatmap_thrips">
+}</component>
+  <component name="RunManager" selected="Python.boxplot_thrips">
     <configuration name="boxplot_thrips" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="entrega2_" />
       <option name="ENV_FILES" value="" />
@@ -109,6 +107,9 @@
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -172,10 +173,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.boxplot_thrips" />
         <item itemvalue="Python.heatmap_thrips" />
         <item itemvalue="Python.scatterplot_thrips" />
         <item itemvalue="Python.countplot_thrips" />
-        <item itemvalue="Python.boxplot_thrips" />
         <item itemvalue="Python.histograma_thrips" />
       </list>
     </recent_temporary>
@@ -197,6 +198,8 @@
       <updated>1762136629920</updated>
       <workItem from="1762136630926" duration="4108000" />
       <workItem from="1762188258610" duration="2999000" />
+      <workItem from="1762197143391" duration="78000" />
+      <workItem from="1762220696756" duration="1446000" />
     </task>
     <servers />
   </component>
@@ -205,7 +208,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/entrega2_$heatmap_thrips.coverage" NAME="heatmap_thrips Coverage Results" MODIFIED="1762191119658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/entrega2_$boxplot_thrips.coverage" NAME="boxplot_thrips Coverage Results" MODIFIED="1762138806431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/entrega2_$boxplot_thrips.coverage" NAME="boxplot_thrips Coverage Results" MODIFIED="1762222332998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/entrega2_$scatterplot_thrips.coverage" NAME="scatterplot_thrips Coverage Results" MODIFIED="1762189234561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/entrega2_$histograma_thrips.coverage" NAME="histograma_thrips Coverage Results" MODIFIED="1762138772787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/entrega2_$violinplot_thrips.coverage" NAME="countplot_thrips Coverage Results" MODIFIED="1762140346600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
