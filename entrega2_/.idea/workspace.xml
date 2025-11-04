@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d6ca620d-4bb0-4e9c-a545-95ed58c8cf7c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/heatmap_thrips.py" beforeDir="false" afterPath="$PROJECT_DIR$/heatmap_thrips.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scatterplot_thrips.py" beforeDir="false" afterPath="$PROJECT_DIR$/scatterplot_thrips.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +55,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.histograma_thrips">
+  <component name="RunManager" selected="Python.scatterplot_thrips">
     <configuration name="boxplot_thrips" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="entrega2_" />
       <option name="ENV_FILES" value="" />
@@ -173,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.scatterplot_thrips" />
         <item itemvalue="Python.histograma_thrips" />
         <item itemvalue="Python.heatmap_thrips" />
         <item itemvalue="Python.countplot_thrips" />
         <item itemvalue="Python.boxplot_thrips" />
-        <item itemvalue="Python.scatterplot_thrips" />
       </list>
     </recent_temporary>
   </component>
@@ -199,7 +199,7 @@
       <workItem from="1762136630926" duration="4108000" />
       <workItem from="1762188258610" duration="2999000" />
       <workItem from="1762197143391" duration="78000" />
-      <workItem from="1762220696756" duration="1784000" />
+      <workItem from="1762220696756" duration="2096000" />
     </task>
     <servers />
   </component>
@@ -209,8 +209,8 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/entrega2_$heatmap_thrips.coverage" NAME="heatmap_thrips Coverage Results" MODIFIED="1762222645759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/entrega2_$boxplot_thrips.coverage" NAME="boxplot_thrips Coverage Results" MODIFIED="1762222431193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/entrega2_$scatterplot_thrips.coverage" NAME="scatterplot_thrips Coverage Results" MODIFIED="1762189234561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/entrega2_$histograma_thrips.coverage" NAME="histograma_thrips Coverage Results" MODIFIED="1762138772787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/entrega2_$scatterplot_thrips.coverage" NAME="scatterplot_thrips Coverage Results" MODIFIED="1762223034673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/entrega2_$histograma_thrips.coverage" NAME="histograma_thrips Coverage Results" MODIFIED="1762222827754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/entrega2_$violinplot_thrips.coverage" NAME="countplot_thrips Coverage Results" MODIFIED="1762140346600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/entrega2_$countplot_thrips.coverage" NAME="countplot_thrips Coverage Results" MODIFIED="1762222490047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
