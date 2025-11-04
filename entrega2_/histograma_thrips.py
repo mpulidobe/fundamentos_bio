@@ -10,5 +10,8 @@ sns.histplot(data=df,
              kde=True,
              color='blue')
 plt.title('Distribución de longitud génica en T. tabaci')
+plt.xlabel('Longitud (pb)')
+plt.ylabel('Frecuencia')
+plt.savefig('histograma_thrips.png', dpi=300)
 plt.show()
 
