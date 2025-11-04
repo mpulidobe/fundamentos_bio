@@ -10,4 +10,5 @@ sns.countplot(data=df,
 plt.title('Frecuencia de genes en cada hebra')
 plt.xlabel('Hebra')
 plt.ylabel('Frecuencia')
+plt.savefig('countplot_thrips.png', dpi=300, bbox_inches='tight')
 plt.show()

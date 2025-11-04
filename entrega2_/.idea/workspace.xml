@@ -55,7 +55,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.boxplot_thrips">
+  <component name="RunManager" selected="Python.countplot_thrips">
     <configuration name="boxplot_thrips" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="entrega2_" />
       <option name="ENV_FILES" value="" />
@@ -173,10 +173,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.countplot_thrips" />
         <item itemvalue="Python.boxplot_thrips" />
         <item itemvalue="Python.heatmap_thrips" />
         <item itemvalue="Python.scatterplot_thrips" />
-        <item itemvalue="Python.countplot_thrips" />
         <item itemvalue="Python.histograma_thrips" />
       </list>
     </recent_temporary>
